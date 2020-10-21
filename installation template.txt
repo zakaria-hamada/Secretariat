@@ -1,0 +1,8 @@
+pour material-dashboard-angular2-master : 
+
+1. check node version : node -v via terminal (GIT BATCH oou autre) , il 3ndek 9ell mn 10.0 tu dois la mettre à jour 
+mise à jour node via : NodeJs Official Page (https://nodejs.org/en/  --> installe la version reconmmandé 12.19.0) 
+
+2. Go to your file project and Run in terminal: npm install -g @angular/cli@latest
+3. npm install    pour l'installation des dépendances 
+4. npm start pour lancement de l'appli qui sera dispo sur http://localhost:4200/
